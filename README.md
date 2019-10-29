@@ -1,7 +1,12 @@
-# Magisk Installer
+# Miui11 Fonts
+The newest Milanting Pro fonts.
+Fonts are provided by
+MIUI
+## NOTICE
 
-**Update `README.md` if you want to submit your module to the online repo!**
+* You should use latest Magisk Manager to install this module. If you meet any problem under installation from Magisk Manager, please try to install it from recovery.
 
-For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
+## Update Log
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+### 1 -2019/10/29
+* Initial release
