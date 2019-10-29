@@ -1,5 +1,6 @@
-# Miui11 Fonts
+# MIUI11 Fonts
 The newest Milanting Pro fonts.
+MIUI 11 Fonts for any device and any xiaomi device
 Fonts are provided by
 MIUI
 ## NOTICE
